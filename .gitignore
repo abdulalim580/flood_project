@@ -1,0 +1,9 @@
+node_modules/
+venv/
+.env
+__pycache__/
+*.pyc
+dist/
+# Large satellite datasets
+data/T43RFP_20250915T052701_B03_10m.jp2
+data/T43RFP_20250915T052701_B08_10m.jp2
